@@ -37905,7 +37905,7 @@ return new A.bw(B.Dl,A.d7(r,q,q,q,A.cI(q,q,A.o0(25,83,83,1),q,q,q,q,q,q,q,q,s,q,
 Ax(a,b,c,d){var s=null
 return A.fz(s,new A.Jo(new A.ads(c,16,16,b),new A.ado(new A.a4p(this),4,!0,!0,!0,s),s,B.aA,!1,s,s,new A.Ks(s),!0,s,4,B.a3,B.xl,s,B.M,B.ah,s),B.t,s,s,s,s,s,s,new A.aJ(d,16,d,16),s,s,s)},
 Au(){var s=null,r=t.D
-return A.fz(s,A.o2(A.b([A.LP(A.b([A.y2(s,A.k3(B.DW,B.cL,s,16),s,new A.a4o(),s,s)],r),B.as,B.fu,B.bj),A.d7("Email: bb3x3helsinki@gmail.com",s,s,s,A.cI(s,s,B.cL,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],r),B.as,B.aX,B.bj),B.t,s,s,s,s,s,s,new A.aJ(0,4,0,4),s,s,s)}}
+return A.fz(s,A.o2(A.b([A.LP(A.b([A.y2(s,A.k3(B.DW,B.cL,s,16),s,new A.a4o(),s,s)],r),B.as,B.fu,B.bj),A.d7("Email: TBA@gmail.com",s,s,s,A.cI(s,s,B.cL,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],r),B.as,B.aX,B.bj),B.t,s,s,s,s,s,s,new A.aJ(0,4,0,4),s,s,s)}}
 A.a4p.prototype={
 $2(a,b){var s=null,r=A.jB(16)
 return new A.Hr(A.o0(25,83,83,1),6,new A.cy(r,B.o),new A.aJ(0,8,0,8),A.o2(A.b([A.auz(A.fz(s,s,B.t,s,s,new A.d9(s,A.au_(B.kR,new A.qP("assets/player_1.jpg")),s,A.jB(12),s,s,s,B.ar),s,s,s,s,s,s,s)),new A.bw(B.eY,A.d7("TBA",s,s,s,A.cI(s,s,B.k,s,s,s,s,s,s,s,s,18,s,s,B.ag,s,s,!0,s,s,s,s,s,s,s,s),s,s),s)],t.D),B.as,B.aX,B.bj),s)},
@@ -85937,7 +85937,7 @@ return A.ac(["en",A.ac(["about","About"],s,s),"fi",A.ac(["about","Meist\xe4"],s,
 $.Gc=function(){var s=t.N
 return A.ac(["en",A.ac(["contact","Contact"],s,s),"fi",A.ac(["contact","Ota yhteytt\xe4"],s,s)],s,t.GU)}()
 $.asw=function(){var s=t.N
-return A.ac(["en",A.ac(["home","Home","heroTitle","Welcome to the 3x3 Helsinki Basketball Team page","heroSubtitle","Pushing Finland to the Global 3x3 Basketball Scene","news","Latest News","players","Meet Our Players","contact","Contact Us"],s,s),"fi",A.ac(["home","Etusivu","heroTitle","Tervetuloa 3x3 Helsinki Basketball Team sivuille","heroSubtitle","Viemme Suomen globaalille 3x3 koripallokartalle","news","Uutisia","players","Pelaajat","contact","Ota yhteytt\xe4"],s,s)],s,t.GU)}()
+return A.ac(["en",A.ac(["home","Home","heroTitle","Welcome to the 3x3 TBA Team page","heroSubtitle","Pushing Finland to the Global 3x3 Basketball Scene","news","Latest News","players","Meet Our Players","contact","Contact Us"],s,s),"fi",A.ac(["home","Etusivu","heroTitle",'Tervetuloa 3x3 "joukkueen nimi" sivuille',"heroSubtitle","Viemme Suomen globaalille 3x3 koripallokartalle","news","Uutisia","players","Pelaajat","contact","Ota yhteytt\xe4"],s,s)],s,t.GU)}()
 $.Gb=function(){var s=t.N
 return A.ac(["en",A.ac(["news","News"],s,s),"fi",A.ac(["news","Uutiset"],s,s)],s,t.GU)}()
 $.Gd=function(){var s=t.N
